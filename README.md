@@ -48,7 +48,8 @@
 
 ###
 
-<p align="left">Skills  <br><br>Computer Languages: Python, HTML, CSS, JavaScript, C.<br> Technical Skills:  React, Next, Django, MySQL, MongoDB, Figma, Project Management.<br> Languages: English, Hindi, Assamese.</p>
+<p align="left">Skills  <br><br>Computer Languages:  C, Python, java, javascript, PHP.<br> Web & Testing Frameworks: Django, HTML, CSS, Node, Next, React, Bootstrap, Figma.
+.<br> Databases: SQL, MySQL, MongoDB.<be> Cloud Platforms: GCP, AWS Services.<br> Languages: English, Hindi, Assamese.<br> Others: Communication, Project Management, Graphics Designing, MS Office.</p>
 
 ###
 
