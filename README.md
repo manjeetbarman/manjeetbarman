@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Manjeet, from India, an aspiring software developer with a good command of Python and MERN stack development.</p>
+<p align="left">My name is Manjeet, from India, an aspiring Data Analyst with a good command in Power BI, SQL, Excel, and Python for actionable
+ insights.</p>
 
 ###
 
@@ -10,11 +11,6 @@
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 </p>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I’m currently working on "Music Recommended system using ML"<br>📚 I'm currently learning "Ruby" for web applications.<br>🎯 Goals: To gain deep knowledge of Python.</p>
 
 ###
 
@@ -52,7 +48,7 @@
 
 ###
 
-<p align="left">Skills  <br><br>Computer Languages:  C, Python, java, javascript, PHP.<br> Web & Testing Frameworks: Django, HTML, CSS, Node, Next, React, Bootstrap, Figma.
+<p align="left">Skills  <br><br>Computer Languages:  C, Python, javascript, SQL.<br> Web & Testing Frameworks: Django, HTML, CSS, Bootstrap, Figma.
 .<br> Databases: SQL, MySQL, MongoDB.<be> Cloud Platforms: GCP, AWS Services.<br> Languages: English, Hindi, Assamese.<br> Others: Communication, Project Management, Graphics Designing, MS Office.</p>
 
 ###
